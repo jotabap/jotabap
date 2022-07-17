@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jotabap
-- 👀 I’m loking for a job
+- 👀 Experience with c#, .Net Core, Angular
 - 🌱 I’m currently learning java 11, fullstack developing
 - 💞️ I’m looking to collaborate on java EE (microservice projects) using springboot or jakarta
 - 📫 How to reach me ... email: johnk_batista@yahoo.com
