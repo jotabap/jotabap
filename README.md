@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jotabap
 - 👀 Experience with c#, .Net Core, Angular
-- 🌱 I’m currently learning java 11, fullstack developing
+- 🌱 I’m currently learning java 11, with sprintboot
 - 💞️ I’m looking to collaborate on java EE (microservice projects) using springboot or jakarta
 - 📫 How to reach me ... email: johnk_batista@yahoo.com
 
