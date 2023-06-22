@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @jotabap
-- 👀 Experience with c#, .Net Core, Angular
-- 🌱 I’m currently learning java 11, with sprintboot
-- 💞️ I’m looking to collaborate on java EE (microservice projects) using springboot or jakarta
-- 📫 How to reach me ... email: johnk_batista@yahoo.com
+Inventive, task oriented professional with 4+ years of experience developing across diverse industries.
+Experience in international industrial companies:
+-	Professional Experience in working with c#, WEB API, .Net, ASP .Net, Entity Framework, SQL Server, Oracle DB, Azure functions.
+-	Front-End development technologies: HTML5, CCS3, Typescript, Angular and bootstrap framework.
+-	AZ-900, Microsoft Azure Fundamentals certified. 
+
+- 📫 How to reach me ... email: mail@johnbatista.net
 
 <!---
 jotabap/jotabap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
