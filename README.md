@@ -5,7 +5,7 @@ Experience in international industrial companies:
 -	Front-End development technologies: HTML5, CCS3, Typescript, Angular and bootstrap framework.
 -	AZ-900, Microsoft Azure Fundamentals certified. 
 
-- 📫 How to reach me ... email: mail@johnbatista.net
+- 📫 How to reach me ... email: jbatista247@gmail.com
 
 <!---
 jotabap/jotabap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
