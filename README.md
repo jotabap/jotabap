@@ -1,13 +1,1 @@
-- 👋 Hi, I’m @jotabap
-Inventive, task oriented professional with 4+ years of experience developing across diverse industries.
-Experience in international industrial companies:
--	Professional Experience in working with c#, WEB API, .Net, ASP .Net, Entity Framework, SQL Server, Oracle DB, Azure functions.
--	Front-End development technologies: HTML5, CCS3, Typescript, Angular and bootstrap framework.
--	AZ-900, Microsoft Azure Fundamentals certified. 
-
-- 📫 How to reach me ... email: jbatista247@gmail.com
-
-<!---
-jotabap/jotabap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software Developer with 6+ years of experience in building enterprise applications using .NET, C#, Python, SQL, Angular, and Vue. Skilled in cloud solutions on Azure, including App Services, Functions, Azure AI Foundry, Azure Logic Apps, and API Management. Experienced in CI/CD automation with Azure DevOps, secure API design, and database optimization, with strong expertise in developing Generative AI solutions, cloud-native architectures, and intelligent applications. Microsoft Certified: Azure AI Engineer Associate, over 3 years of experience as a Technical Lead, driving best practices, fostering collaboration, and ensuring the successful delivery of high-impact projects.
